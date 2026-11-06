@@ -268,7 +268,7 @@ M.Tech Robotics and AI | IIT Guwahati
 
 Interested in mobile robotics, autonomous systems, computer vision, and intelligent robotic navigation.
 
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/iamrealrushi)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/iamrealrushi/)
 - **GitHub:** [Your GitHub Profile](https://github.com/iamrealrushi)
 
 ---
